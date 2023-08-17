@@ -1,0 +1,18 @@
+.myForm{
+    display: flex;
+    align-items: center;
+    border: 5px solid rgba(56, 55, 55, 0.5);
+    width: 1000px;
+    height: 400px ;
+
+}
+
+.myImageBox{
+    width: 350px;
+    height: 390px ; 
+    margin-right: 10px;
+    filter: brightness(90%);
+    opacity: 0.9;
+    box-shadow: 0px 0px 15px 10px #000;
+    background-image: url('/public/img/fonbox3.jpg')
+}
